@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SquantorTexasInstruments)(type KiCad)(uri C:/Users/Dj140/Downloads/Compressed/squantorPcbLibrary-master/squantorPcbLibrary-master/SquantorTexasInstruments.pretty)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib)(options "")(descr ""))
+)

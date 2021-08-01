@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name SquantorTexasInstruments)(type Legacy)(uri C:/Users/Dj140/Downloads/Compressed/squantorPcbLibrary-master/squantorPcbLibrary-master/SquantorTexasInstruments.lib)(options "")(descr ""))
+  (lib (name AS5600)(type Legacy)(uri ${KIPRJMOD}/lib/AS5600.lib)(options "")(descr ""))
+  (lib (name Watchy)(type Legacy)(uri ${KIPRJMOD}/lib/Watchy.lib)(options "")(descr ""))
+  (lib (name Watchy-cache)(type Legacy)(uri ${KIPRJMOD}/lib/Watchy-cache.lib)(options "")(descr ""))
+  (lib (name Watchy-rescue)(type Legacy)(uri ${KIPRJMOD}/lib/Watchy-rescue.lib)(options "")(descr ""))
+  (lib (name STM32F4_REV2-cache)(type Legacy)(uri ${KIPRJMOD}/lib/STM32F4_REV2-cache.lib)(options "")(descr ""))
+  (lib (name STM32F4_REV2-rescue)(type Legacy)(uri ${KIPRJMOD}/lib/STM32F4_REV2-rescue.lib)(options "")(descr ""))
+)
