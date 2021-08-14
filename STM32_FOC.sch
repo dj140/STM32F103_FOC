@@ -1711,4 +1711,5 @@ USB_DM
 Text GLabel 3850 4790 2    50   Input ~ 0
 USB_DP
 NoConn ~ 3730 5090
+NoConn ~ 3730 3690
 $EndSCHEMATC
